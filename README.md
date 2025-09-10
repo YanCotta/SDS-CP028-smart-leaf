@@ -5,6 +5,10 @@ This project is a collaborative initiative brought to you by SuperDataScience, a
 
 To contribute to this project, please follow the guidelines avilable in our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+
+--> shared rep with all other team members work: https://github.com/SuperDataScience-Community-Projects/SDS-CP028-smart-leaf
+
+
 # Project Scope of Works:
 
 ## Project Overview

@@ -1,4 +1,0 @@
-gradio
-tensorflow
-pillow
-numpy
